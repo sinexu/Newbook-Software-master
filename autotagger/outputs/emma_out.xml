@@ -1,0 +1,461 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI
+  SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Diary 48
+				</title>
+				<author>
+					Joseph Mathia Svoboda
+				</author>
+				<respStmt>
+					<resp>
+						OTAP
+					</resp>
+					<name>
+						Walter Andrews
+					</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					OTAP
+				</distributor>
+				<address>
+					<addrLine/>
+				</address>
+				<idno type="OTAP">
+					1898-1899
+				</idno>
+				<availability>
+					<p>
+						Copyright 2012 OTAP. All Rights Reserved.
+					</p>
+				</availability>
+				<date when="2007">
+					2011
+				</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					Joseph Mathia Svoboda
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>
+					OTAP
+				</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<list>
+				<item>
+					<date when="2012-30-08">
+						30 August 12
+					</date>
+					Last checked
+				</item>
+			</list>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 n="1" type="journey">
+				<head type="journey">
+					First Journey in Diary; No Journey Title
+				</head>
+				<div2 n="1" part="I" type="diaryentry">
+					<head type="diaryentry">
+						First diary entry, no title given in text.
+					</head>
+					<p/>
+				</div2>
+			</div1>
+			<div1 n="2" type="journey">
+				<head type="journey" xml:id="p0-1">
+					NOTE
+					<lb n="1"/>
+				</head>
+				<div2 n="1" part="M" type="diaryentry">
+					<p>
+						<lb n="2"/>
+						<lb n="3"/>
+					</p>
+					<p>
+							While on her way through New York, in the autumn of 1916, Mrs. Andrews
+						<lb n="4"/>
+						kindly gave her consent to a request which I made, that we be allowed to
+						<lb n="5"/>
+						copy this journal of her life on the Nile, primarily in order that we
+						<lb n="6"/>
+						might have on record in the Egyptian Department of the Museum the many
+						<lb n="7"/>
+						facts which it contains relating to the archaeological work of Theodore
+						<lb n="8"/>
+						M. Davis, from the results of which the museum has received such
+						<lb n="9"/>
+						valuable material through his various gifts and under the terms of his
+						<lb n="10"/>
+						will.
+						<lb n="11"/>
+						<lb n="12"/>
+					</p>
+					<p>
+							As a member of his family, Mrs. Andrews accompanied Mr. Davis on his
+						<lb n="13"/>
+						annual visits to Egypt for a period of more than twenty years, and the
+						<lb n="14"/>
+						charming description which she gives of their river-life on the
+						<lb n="15"/>
+						“Bedawin”, familiar to many of us who enjoyed their hospitality, is
+						<lb n="16"/>
+						certainly worthy of a wider public and more permanent form in print, --
+						<lb n="17"/>
+						though she could not be prevailed upon to consider this.
+						<lb n="18"/>
+						<lb n="19"/>
+						Albert M. Lythgoe.
+						<lb n="20"/>
+						<lb n="21"/>
+						Metropolitan Museum of Art New York February, 1919.
+						<lb n="22"/>
+						<pb n="0"/>
+					</p>
+				</div2>
+			</div1>
+			<div1 n="3" type="journey">
+				<head type="journey" xml:id="p1-1">
+					Paris. December 1st, 1889.
+					<lb n="1"/>
+				</head>
+				<div2 n="1" part="M" type="diaryentry">
+					<p>
+						<lb n="2"/>
+					</p>
+					<p>
+							Sailed from New York, Saturday November 16th on S.S. Bourgogne, and
+						<lb n="3"/>
+						arrived at Havre Nov. 24th at noon.  A dull and uneventful voyage -
+						<lb n="4"/>
+						and a most disagreeable landing in a heavy storm of wind and rain,
+						<lb n="5"/>
+						in a tug, with no protection but that our umbrellas and wraps gave
+						<lb n="6"/>
+						us.  Came to our old quarters at Hotel Chatham.
+						<lb n="7"/>
+						<lb n="8"/>
+					</p>
+				</div2>
+			</div1>
+			<div1 n="4" type="journey">
+				<head type="journey" xml:id="p1-8">
+					Shepheards Hotel Cairo - Egypt.  Dec. 12. 1889.
+					<lb n="8"/>
+				</head>
+				<div2 n="1" part="M" type="diaryentry">
+					<p>
+						<lb n="10"/>
+					</p>
+					<p>
+							We left Paris on the 5th at 8.30 a.m. for Marseilles.  I had been
+						<lb n="11"/>
+						suffering with a severe cold, and confined to the house and often
+						<lb n="12"/>
+						to my room during our stay in Paris.  The weather was raw and cold
+						<lb n="13"/>
+						all the time, and the day of our journey to Marseilles was very
+						<lb n="14"/>
+						cold - and the ride seemed excessively long and tiring.  We spent a
+						<lb n="15"/>
+						night at the “Hotel du Louvre et de la Paix” at Marseilles, and
+						<lb n="16"/>
+						took a drive the next morning through the streets and along the
+						<lb n="17"/>
+						quays - a cold wind blowing.  There had just passed over France, or
+						<lb n="18"/>
+						rather the south of France, one of the worst mistrals ever known
+						<lb n="19"/>
+						and houses in Avignon and Nismes blown down, ships unable to enter
+						<lb n="20"/>
+						or leave the port or Marseilles for days, snow at Nice etc. so that
+						<lb n="21"/>
+						our disappointment in regard to seeing Avignon, Nismes and Arles,
+						<lb n="22"/>
+						which we had planned to do on our way down to Marseilles, and which
+						<lb n="23"/>
+						my illness prevented, was mitigated.
+						<lb n="24"/>
+						<pb n="1"/>
+					</p>
+					<p>
+							We sailed in the “Gironde” of the Massagieres Maritime line, at 4 oclock in the
+						<lb n="1"/>
+						afternoon.  The boat proved an excellent one -- good service, table
+						<lb n="2"/>
+						and rooms.  We found among the passengers Miss Sara Gibbs of
+						<lb n="3"/>
+						Newport.  The first night out was excessively cold and rough -- and
+						<lb n="4"/>
+						I went early to bed, grasping my hot water bag, and soon forgot the
+						<lb n="5"/>
+						discomforts.  The next morning we had a summer sea to sail over,
+						<lb n="6"/>
+						and we were passing between Corsica and Sardinia, and with a glass
+						<lb n="7"/>
+						could distinguish the houses on either island.  In the afternoon we
+						<lb n="8"/>
+						were approaching the Straits of Messina, and a lovely scene it was!
+						<lb n="9"/>
+						For a time it seemed impossible to decide which was the main shore,
+						<lb n="10"/>
+						and which was Sicily -- and we were apparently steaming dead into
+						<lb n="11"/>
+						the rocky shore of the Aspromonte promontory.  Everyone was on deck
+						<lb n="12"/>
+						gazing at the beautiful and interesting shores, soon the Strait
+						<lb n="13"/>
+						defined itself, each shore near enough to see the houses plainly
+						<lb n="14"/>
+						without glasses.  A heavy mass of clouds hung about the volcanic
+						<lb n="15"/>
+						island of Stromboli, one of the Lipari group, and over Sicily, and
+						<lb n="16"/>
+						Aetna could not be seen, as we struck straight off across the
+						<lb n="17"/>
+						Mediterranean under the Italian shore, for Alexandria, which we
+						<lb n="18"/>
+						reached the evening of the 11th early.  We were a long time landing
+						<lb n="19"/>
+						- Mary absorbed and delighted at the novel costumes and appearance
+						<lb n="20"/>
+						of the natives on the shore.  We could not get into our former
+						<lb n="21"/>
+						quarters at the “Khedival Hotel”, so went to the “Abbot” where we
+						<lb n="22"/>
+						lunched before taking the train to Cairo, which we reached at 9
+						<lb n="23"/>
+						o'clock.  We came to Shepheards and were soon installed in
+						<lb n="24"/>
+						delightful rooms into which the sun looks all day - and out of our
+						<lb n="25"/>
+						windows we look upon a spacious court, with palms and trop-
+						<lb n="26"/>
+						<pb n="2"/>
+						ical trees, among which the great black and grey crows are flying
+						<lb n="1"/>
+						and cawing all the time.
+						<lb n="2"/>
+						<lb n="3"/>
+					</p>
+					<p>
+							We are having a “grey day” for this part of the world - but it
+						<lb n="4"/>
+						seems delightfully summer-like to us, even if our northern winter
+						<lb n="5"/>
+						clothes are comfortable.  We were busy this morning settling
+						<lb n="6"/>
+						ourselves in our rooms, after which Theodore and I walked to Cook's
+						<lb n="7"/>
+						office, a short distance from the hotel, and looked at plans of
+						<lb n="8"/>
+						steamers and talked over the voyage of the Nile.  After an
+						<lb n="9"/>
+						excellent luncheon we drove out, taking Miss Gibbs with us over the
+						<lb n="10"/>
+						Ghèzireh road - it looking almost as natural to us as the Ocean
+						<lb n="11"/>
+						Drive at Newport, - the Kasr-el-Nil bridge, and the drives, all
+						<lb n="12"/>
+						with the same strange motley crowd coming and going, human beings
+						<lb n="13"/>
+						and animals.  As a “first sight” there is perhaps nothing to equal
+						<lb n="14"/>
+						it in all the world - and Miss Gibbs and Mary were in constant
+						<lb n="15"/>
+						ecstatic exclamation, while Theodore and I though familiar with it,
+						<lb n="16"/>
+						were impressed, and felt it rather strange and interesting that we
+						<lb n="17"/>
+						should have familiar recollections of Egypt.
+						<lb n="18"/>
+						<lb n="19"/>
+					</p>
+					<p>
+							Our faithful Mohammed Salah had appeared early in the morning, and
+						<lb n="20"/>
+						been duly engaged, and was occupying his customary seat on the box
+						<lb n="21"/>
+						beside the coachman - his kindly brown face and grave dignified
+						<lb n="22"/>
+						manner, just the same as of old.
+						<lb n="23"/>
+						<lb n="24"/>
+					</p>
+				</div2>
+			</div1>
+			<div1 n="5" type="journey">
+				<head type="journey" xml:id="p3-20">
+					Dec. 13. Friday.
+					<lb n="20"/>
+				</head>
+				<div2 n="1" part="M" type="diaryentry">
+					<p>
+						<lb n="26"/>
+					</p>
+					<p>
+							We all drove down to the Nile this morning to see the “Sethi”
+						<lb n="27"/>
+						having a permission from Cooks - a cold wind was blowing, and
+						<lb n="28"/>
+						blinding clouds of dust flying.  We were not pleased with the
+						<lb n="29"/>
+						appearance of the
+						<lb n="30"/>
+						<pb n="3"/>
+						little steamer - I stayed at home alone in
+						<lb n="1"/>
+						the afternoon with my troublesome cold - it cannot be induced to
+						<lb n="2"/>
+						leave me.  We talked over the Nile journey and decided to go on the
+						<lb n="3"/>
+						Sethi the 1st of January.
+						<lb n="4"/>
+						<lb n="5"/>
+					</p>
+					<p>
+							Nowhere I believe can a more brilliant and interesting scene of its
+						<lb n="6"/>
+						kind be found, than the great dining room at Shepheards.  A new one
+						<lb n="7"/>
+						has been lately added to the house, large lofty capable of seating
+						<lb n="8"/>
+						300 people I should judge, with masses of tropical palms and plants
+						<lb n="9"/>
+						in groups against the white walls - People from every quarter of
+						<lb n="10"/>
+						the globe are seated at its tables - ladies in evening dress, as
+						<lb n="11"/>
+						well as travelling dress - and the scarlet coats of many trim swell
+						<lb n="12"/>
+						English officers, and an occasional fez or turban, giving color to
+						<lb n="13"/>
+						it all.
+						<lb n="14"/>
+						<lb n="15"/>
+					</p>
+				</div2>
+			</div1>
+			<div1 n="6" type="journey">
+				<head type="journey" xml:id="p4-20">
+					Wednesday. Dec. 18th
+					<lb n="20"/>
+				</head>
+				<div2 n="1" part="M" type="diaryentry">
+					<p>
+						<lb n="17"/>
+					</p>
+					<p>
+							Everyone complains of the bad wintry weather here - and it is I
+						<lb n="18"/>
+						suppose unusual for Egypt.  But it seems curious to us - for a hot
+						<lb n="19"/>
+						sun shines most of the time, flowers are blooming in profusion, and
+						<lb n="20"/>
+						we have our windows open all day.  There is a good deal of dust
+						<lb n="21"/>
+						from this light soil - If the houses were only built with some
+						<lb n="22"/>
+						provision for indoor comfort in cool weather, it would be charming.
+						<lb n="23"/>
+						Open chimneys for fire and ventilation would make them most
+						<lb n="24"/>
+						comfortable.  But it has been stupid work for me during the past
+						<lb n="25"/>
+						week, sitting at home with my cold, when everything is so
+						<lb n="26"/>
+						delightful out of doors.
+						<lb n="27"/>
+						<lb n="28"/>
+					</p>
+					<p>
+							One morning we went to the carpet bazaar and Theodore bought two or
+						<lb n="29"/>
+						three rugs - after the usual absurd bargaining.  The man demanded
+						<lb n="30"/>
+						£106. for the lot.  Theodore took out his little book and made
+						<lb n="31"/>
+						<pb n="4"/>
+						some figures and promptly offered £28. and got them!
+						<lb n="1"/>
+						<lb n="2"/>
+					</p>
+				</div2>
+			</div1>
+			<div1 n="7" type="journey">
+				<head type="journey" xml:id="p5-2">
+					Christmas. 1889.
+					<lb n="2"/>
+				</head>
+				<div2 n="1" part="F" type="diaryentry">
+					<p>
+						<lb n="4"/>
+					</p>
+					<p>
+							A day of steady hard rain for hours - Mary and Miss Gibbs went
+						<lb n="5"/>
+						bravely off to church - I, of course am condemned to the house - I
+						<lb n="6"/>
+						had a visit from Dr. Murison, and busied myself writing letters.
+						<lb n="7"/>
+						Mohammed Salah appeared at breakfast, with the huge inevitable
+						<lb n="8"/>
+						bouquet, and a remarkable structure in sweets which he called a
+						<lb n="9"/>
+						“Christmas cake”, and which I put by for afternoon and asked Sir
+						<lb n="10"/>
+						Frederick and Lady Hughes and Miss Gibbs to come in, and so
+						<lb n="11"/>
+						disposed of it.
+						<lb n="12"/>
+						<lb n="13"/>
+					</p>
+					<p>
+							We have decided against the steamer -- first Miss Gibbs backed down
+						<lb n="14"/>
+						-- then they went to look at dahabeahs, and became at once
+						<lb n="15"/>
+						infatuated, and after visits to many Theodore decided upon the
+						<lb n="16"/>
+						“Nubia” belonging to Prince Achmed, an iron boat, with an excellent
+						<lb n="17"/>
+						reputation for speed, and with pretty fittings, and very good beds.
+						<lb n="18"/>
+						Her model and fittings were so superior to those of any others
+						<lb n="19"/>
+						that we saw, that in spite of her high price, Theodore decided upon
+						<lb n="20"/>
+						her.  Mohammed went at once delightedly to work, and is now very
+						<lb n="21"/>
+						busy with his preparations for our departure, and is arranging for
+						<lb n="22"/>
+						our comfort in a thousand ways.  One of my special cares at present
+						<lb n="23"/>
+						is to prevent him from making a financial ruin of himself, as he
+						<lb n="24"/>
+						insists upon buying too many things and too much of everything for
+						<lb n="25"/>
+						us.  We hope to get off on Saturday, if a favorable wind blows.
+						<lb n="26"/>
+						<pb n="5"/>
+					</p>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI>
+

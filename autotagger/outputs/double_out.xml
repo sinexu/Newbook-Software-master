@@ -1,0 +1,1472 @@
+<?xml version="1.0" ?>
+<!DOCTYPE TEI
+  SYSTEM 'http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd'>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+					Diary 48
+				</title>
+				<author>
+					Joseph Mathia Svoboda
+				</author>
+				<respStmt>
+					<resp>
+						OTAP
+					</resp>
+					<name>
+						Walter Andrews
+					</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>
+					OTAP
+				</distributor>
+				<address>
+					<addrLine/>
+				</address>
+				<idno type="OTAP">
+					1898-1899
+				</idno>
+				<availability>
+					<p>
+						Copyright 2012 OTAP. All Rights Reserved.
+					</p>
+				</availability>
+				<date when="2007">
+					2011
+				</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					Joseph Mathia Svoboda
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>
+					OTAP
+				</p>
+			</projectDesc>
+		</encodingDesc>
+		<revisionDesc>
+			<list>
+				<item>
+					<date when="2012-30-08">
+						30 August 12
+					</date>
+					Last checked
+				</item>
+			</list>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div1 n="1" type="journey">
+				<head type="journey">
+					First Journey in Diary; No Journey Title
+				</head>
+				<div2 n="1" part="N" type="diaryentry">
+					<head type="diaryentry">
+						First diary entry, no title given in text.
+					</head>
+					<head type="marginnote" xml:id="p1-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						Continued from Diary
+						<lb n="1"/>
+						No. 47 of 1897/8
+						<lb n="2"/>
+					</p>
+				</div2>
+				<div2 n="2" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p2-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="3"/>
+						passengers at Ali Gherbi
+						<lb n="4"/>
+						and took 4 and went on
+						<lb n="5"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="6"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="7"/>
+						the place of the 2d mate Mr.
+						<lb n="8"/>
+						Hatfield who was discharged
+						<lb n="9"/>
+						three months ago; this
+						<lb n="10"/>
+						one is young only 21 years
+						<lb n="11"/>
+						Called Smart, he came out
+						<lb n="12"/>
+						in the Goolistan &amp; joined
+						<lb n="13"/>
+						this ship on the 1st Instt;
+						<lb n="14"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="15"/>
+						their wages for July~
+						<lb n="16"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="17"/>
+						East parts;
+						<lb n="18"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="19"/>
+						Cooled down with a light
+						<lb n="20"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="21"/>
+						Air, but my cabin is burning
+						<lb n="22"/>
+						hot it is 108º at 7 P.M.
+						<lb n="23"/>
+						I cannot stand a minute
+						<lb n="24"/>
+						<pb n="1"/>
+						Continued from Diary
+						<lb n="1"/>
+						<lb n="2"/>
+						No. 47 of 1897/8
+						<lb n="3"/>
+						<lb n="4"/>
+					</p>
+				</div2>
+				<div2 n="3" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p3-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="5"/>
+						<lb n="6"/>
+						passengers at Ali Gherbi
+						<lb n="7"/>
+						<lb n="8"/>
+						and took 4 and went on
+						<lb n="9"/>
+						<lb n="10"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="11"/>
+						<lb n="12"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="13"/>
+						<lb n="14"/>
+						the place of the 2d mate Mr.
+						<lb n="15"/>
+						<lb n="16"/>
+						Hatfield who was discharged
+						<lb n="17"/>
+						<lb n="18"/>
+						three months ago; this
+						<lb n="19"/>
+						<lb n="20"/>
+						one is young only 21 years
+						<lb n="21"/>
+						<lb n="22"/>
+						Called Smart, he came out
+						<lb n="23"/>
+						<lb n="24"/>
+						in the Goolistan &amp; joined
+						<lb n="25"/>
+						<lb n="26"/>
+						this ship on the 1st Instt;
+						<lb n="27"/>
+						<lb n="28"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="29"/>
+						<lb n="30"/>
+						their wages for July~
+						<lb n="31"/>
+						<lb n="32"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="33"/>
+						<lb n="34"/>
+						East parts;
+						<lb n="35"/>
+						<lb n="36"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="37"/>
+						<lb n="38"/>
+						Cooled down with a light
+						<lb n="39"/>
+						<lb n="40"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="41"/>
+						<lb n="42"/>
+						Air, but my cabin is burning
+						<lb n="43"/>
+						<lb n="44"/>
+						hot it is 108º at 7 P.M.
+						<lb n="45"/>
+						<lb n="46"/>
+						I cannot stand a minute
+						<lb n="47"/>
+						<pb n="2"/>
+						Continued from Diary
+						<lb n="1"/>
+						No. 47 of 1897/8
+						<lb n="2"/>
+						<lb n="3"/>
+					</p>
+				</div2>
+				<div2 n="4" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p4-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="4"/>
+						passengers at Ali Gherbi
+						<lb n="5"/>
+						and took 4 and went on
+						<lb n="6"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="7"/>
+						<lb n="8"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="9"/>
+						the place of the 2d mate Mr.
+						<lb n="10"/>
+						Hatfield who was discharged
+						<lb n="11"/>
+						three months ago; this
+						<lb n="12"/>
+						one is young only 21 years
+						<lb n="13"/>
+						Called Smart, he came out
+						<lb n="14"/>
+						in the Goolistan &amp; joined
+						<lb n="15"/>
+						this ship on the 1st Instt;
+						<lb n="16"/>
+						<lb n="17"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="18"/>
+						their wages for July~
+						<lb n="19"/>
+						<lb n="20"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="21"/>
+						East parts;
+						<lb n="22"/>
+						<lb n="23"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="24"/>
+						Cooled down with a light
+						<lb n="25"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="26"/>
+						Air, but my cabin is burning
+						<lb n="27"/>
+						hot it is 108º at 7 P.M.
+						<lb n="28"/>
+						I cannot stand a minute
+						<lb n="29"/>
+						<pb n="3"/>
+						Continued from Diary
+						<lb n="1"/>
+						<lb n="2"/>
+						No. 47 of 1897/8
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+					</p>
+				</div2>
+				<div2 n="5" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p5-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="6"/>
+						<lb n="7"/>
+						passengers at Ali Gherbi
+						<lb n="8"/>
+						<lb n="9"/>
+						and took 4 and went on
+						<lb n="10"/>
+						<lb n="11"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="12"/>
+						<lb n="13"/>
+						<lb n="14"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="15"/>
+						<lb n="16"/>
+						the place of the 2d mate Mr.
+						<lb n="17"/>
+						<lb n="18"/>
+						Hatfield who was discharged
+						<lb n="19"/>
+						<lb n="20"/>
+						three months ago; this
+						<lb n="21"/>
+						<lb n="22"/>
+						one is young only 21 years
+						<lb n="23"/>
+						<lb n="24"/>
+						Called Smart, he came out
+						<lb n="25"/>
+						<lb n="26"/>
+						in the Goolistan &amp; joined
+						<lb n="27"/>
+						<lb n="28"/>
+						this ship on the 1st Instt;
+						<lb n="29"/>
+						<lb n="30"/>
+						<lb n="31"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="32"/>
+						<lb n="33"/>
+						their wages for July~
+						<lb n="34"/>
+						<lb n="35"/>
+						<lb n="36"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="37"/>
+						<lb n="38"/>
+						East parts;
+						<lb n="39"/>
+						<lb n="40"/>
+						<lb n="41"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="42"/>
+						<lb n="43"/>
+						Cooled down with a light
+						<lb n="44"/>
+						<lb n="45"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="46"/>
+						<lb n="47"/>
+						Air, but my cabin is burning
+						<lb n="48"/>
+						<lb n="49"/>
+						hot it is 108º at 7 P.M.
+						<lb n="50"/>
+						<lb n="51"/>
+						I cannot stand a minute
+						<lb n="52"/>
+						<pb n="4"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+					</p>
+					<p>
+							Continued from Diary
+						<lb n="5"/>
+						No. 47 of 1897/8
+						<lb n="6"/>
+					</p>
+				</div2>
+				<div2 n="6" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p6-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="7"/>
+						passengers at Ali Gherbi
+						<lb n="8"/>
+						and took 4 and went on
+						<lb n="9"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="10"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="11"/>
+						the place of the 2d mate Mr.
+						<lb n="12"/>
+						Hatfield who was discharged
+						<lb n="13"/>
+						three months ago; this
+						<lb n="14"/>
+						one is young only 21 years
+						<lb n="15"/>
+						Called Smart, he came out
+						<lb n="16"/>
+						in the Goolistan &amp; joined
+						<lb n="17"/>
+						this ship on the 1st Instt;
+						<lb n="18"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="19"/>
+						their wages for July~
+						<lb n="20"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="21"/>
+						East parts;
+						<lb n="22"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="23"/>
+						Cooled down with a light
+						<lb n="24"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="25"/>
+						Air, but my cabin is burning
+						<lb n="26"/>
+						hot it is 108º at 7 P.M.
+						<lb n="27"/>
+						I cannot stand a minute
+						<lb n="28"/>
+						<pb n="5"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+						Continued from Diary
+						<lb n="6"/>
+						<lb n="7"/>
+						No. 47 of 1897/8
+						<lb n="8"/>
+						<lb n="9"/>
+					</p>
+				</div2>
+				<div2 n="7" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p7-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="10"/>
+						<lb n="11"/>
+						passengers at Ali Gherbi
+						<lb n="12"/>
+						<lb n="13"/>
+						and took 4 and went on
+						<lb n="14"/>
+						<lb n="15"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="16"/>
+						<lb n="17"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="18"/>
+						<lb n="19"/>
+						the place of the 2d mate Mr.
+						<lb n="20"/>
+						<lb n="21"/>
+						Hatfield who was discharged
+						<lb n="22"/>
+						<lb n="23"/>
+						three months ago; this
+						<lb n="24"/>
+						<lb n="25"/>
+						one is young only 21 years
+						<lb n="26"/>
+						<lb n="27"/>
+						Called Smart, he came out
+						<lb n="28"/>
+						<lb n="29"/>
+						in the Goolistan &amp; joined
+						<lb n="30"/>
+						<lb n="31"/>
+						this ship on the 1st Instt;
+						<lb n="32"/>
+						<lb n="33"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="34"/>
+						<lb n="35"/>
+						their wages for July~
+						<lb n="36"/>
+						<lb n="37"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="38"/>
+						<lb n="39"/>
+						East parts;
+						<lb n="40"/>
+						<lb n="41"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="42"/>
+						<lb n="43"/>
+						Cooled down with a light
+						<lb n="44"/>
+						<lb n="45"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="46"/>
+						<lb n="47"/>
+						Air, but my cabin is burning
+						<lb n="48"/>
+						<lb n="49"/>
+						hot it is 108º at 7 P.M.
+						<lb n="50"/>
+						<lb n="51"/>
+						I cannot stand a minute
+						<lb n="52"/>
+						<pb n="6"/>
+						Continued from Diary
+						<lb n="1"/>
+						No. 47 of 1897/8
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+					</p>
+				</div2>
+				<div2 n="8" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p8-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="5"/>
+						passengers at Ali Gherbi
+						<lb n="6"/>
+						and took 4 and went on
+						<lb n="7"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="8"/>
+						<lb n="9"/>
+						<lb n="10"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="11"/>
+						the place of the 2d mate Mr.
+						<lb n="12"/>
+						Hatfield who was discharged
+						<lb n="13"/>
+						three months ago; this
+						<lb n="14"/>
+						one is young only 21 years
+						<lb n="15"/>
+						Called Smart, he came out
+						<lb n="16"/>
+						in the Goolistan &amp; joined
+						<lb n="17"/>
+						this ship on the 1st Instt;
+						<lb n="18"/>
+						<lb n="19"/>
+						<lb n="20"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="21"/>
+						their wages for July~
+						<lb n="22"/>
+						<lb n="23"/>
+						<lb n="24"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="25"/>
+						East parts;
+						<lb n="26"/>
+						<lb n="27"/>
+						<lb n="28"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="29"/>
+						Cooled down with a light
+						<lb n="30"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="31"/>
+						Air, but my cabin is burning
+						<lb n="32"/>
+						hot it is 108º at 7 P.M.
+						<lb n="33"/>
+						I cannot stand a minute
+						<lb n="34"/>
+						<pb n="7"/>
+						Continued from Diary
+						<lb n="1"/>
+						<lb n="2"/>
+						No. 47 of 1897/8
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+						<lb n="6"/>
+						<lb n="7"/>
+					</p>
+				</div2>
+				<div2 n="9" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p9-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="8"/>
+						<lb n="9"/>
+						passengers at Ali Gherbi
+						<lb n="10"/>
+						<lb n="11"/>
+						and took 4 and went on
+						<lb n="12"/>
+						<lb n="13"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="14"/>
+						<lb n="15"/>
+						<lb n="16"/>
+						<lb n="17"/>
+						<lb n="18"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="19"/>
+						<lb n="20"/>
+						the place of the 2d mate Mr.
+						<lb n="21"/>
+						<lb n="22"/>
+						Hatfield who was discharged
+						<lb n="23"/>
+						<lb n="24"/>
+						three months ago; this
+						<lb n="25"/>
+						<lb n="26"/>
+						one is young only 21 years
+						<lb n="27"/>
+						<lb n="28"/>
+						Called Smart, he came out
+						<lb n="29"/>
+						<lb n="30"/>
+						in the Goolistan &amp; joined
+						<lb n="31"/>
+						<lb n="32"/>
+						this ship on the 1st Instt;
+						<lb n="33"/>
+						<lb n="34"/>
+						<lb n="35"/>
+						<lb n="36"/>
+						<lb n="37"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="38"/>
+						<lb n="39"/>
+						their wages for July~
+						<lb n="40"/>
+						<lb n="41"/>
+						<lb n="42"/>
+						<lb n="43"/>
+						<lb n="44"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="45"/>
+						<lb n="46"/>
+						East parts;
+						<lb n="47"/>
+						<lb n="48"/>
+						<lb n="49"/>
+						<lb n="50"/>
+						<lb n="51"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="52"/>
+						<lb n="53"/>
+						Cooled down with a light
+						<lb n="54"/>
+						<lb n="55"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="56"/>
+						<lb n="57"/>
+						Air, but my cabin is burning
+						<lb n="58"/>
+						<lb n="59"/>
+						hot it is 108º at 7 P.M.
+						<lb n="60"/>
+						<lb n="61"/>
+						I cannot stand a minute
+						<lb n="62"/>
+						<pb n="8"/>
+						Continued from Diary
+						<lb n="1"/>
+						No. 47 of 1897/8
+						<lb n="2"/>
+						<lb n="3"/>
+					</p>
+				</div2>
+				<div2 n="10" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p10-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="4"/>
+						passengers at Ali Gherbi
+						<lb n="5"/>
+						and took 4 and went on
+						<lb n="6"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="7"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="8"/>
+						the place of the 2d mate Mr.
+						<lb n="9"/>
+						Hatfield who was discharged
+						<lb n="10"/>
+						three months ago; this
+						<lb n="11"/>
+						one is young only 21 years
+						<lb n="12"/>
+						Called Smart, he came out
+						<lb n="13"/>
+						in the Goolistan &amp; joined
+						<lb n="14"/>
+						this ship on the 1st Instt;
+						<lb n="15"/>
+						<lb n="16"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="17"/>
+						their wages for July~
+						<lb n="18"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="19"/>
+						East parts;
+						<lb n="20"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="21"/>
+						Cooled down with a light
+						<lb n="22"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="23"/>
+						Air, but my cabin is burning
+						<lb n="24"/>
+						hot it is 108º at 7 P.M.
+						<lb n="25"/>
+						I cannot stand a minute
+						<lb n="26"/>
+						<pb n="9"/>
+						Continued from Diary
+						<lb n="1"/>
+						<lb n="2"/>
+						No. 47 of 1897/8
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+						<lb n="6"/>
+						<lb n="7"/>
+					</p>
+				</div2>
+				<div2 n="11" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p11-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="8"/>
+						<lb n="9"/>
+						passengers at Ali Gherbi
+						<lb n="10"/>
+						<lb n="11"/>
+						and took 4 and went on
+						<lb n="12"/>
+						<lb n="13"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="14"/>
+						<lb n="15"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="16"/>
+						<lb n="17"/>
+						the place of the 2d mate Mr.
+						<lb n="18"/>
+						<lb n="19"/>
+						Hatfield who was discharged
+						<lb n="20"/>
+						<lb n="21"/>
+						three months ago; this
+						<lb n="22"/>
+						<lb n="23"/>
+						one is young only 21 years
+						<lb n="24"/>
+						<lb n="25"/>
+						Called Smart, he came out
+						<lb n="26"/>
+						<lb n="27"/>
+						in the Goolistan &amp; joined
+						<lb n="28"/>
+						<lb n="29"/>
+						this ship on the 1st Instt;
+						<lb n="30"/>
+						<lb n="31"/>
+						<lb n="32"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="33"/>
+						<lb n="34"/>
+						their wages for July~
+						<lb n="35"/>
+						<lb n="36"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="37"/>
+						<lb n="38"/>
+						East parts;
+						<lb n="39"/>
+						<lb n="40"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="41"/>
+						<lb n="42"/>
+						Cooled down with a light
+						<lb n="43"/>
+						<lb n="44"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="45"/>
+						<lb n="46"/>
+						Air, but my cabin is burning
+						<lb n="47"/>
+						<lb n="48"/>
+						hot it is 108º at 7 P.M.
+						<lb n="49"/>
+						<lb n="50"/>
+						I cannot stand a minute
+						<lb n="51"/>
+						<pb n="10"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						Continued from Diary
+						<lb n="5"/>
+						No. 47 of 1897/8
+						<lb n="6"/>
+						<lb n="7"/>
+					</p>
+				</div2>
+				<div2 n="12" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p12-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="8"/>
+						passengers at Ali Gherbi
+						<lb n="9"/>
+						and took 4 and went on
+						<lb n="10"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="11"/>
+						<lb n="12"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="13"/>
+						the place of the 2d mate Mr.
+						<lb n="14"/>
+						Hatfield who was discharged
+						<lb n="15"/>
+						three months ago; this
+						<lb n="16"/>
+						one is young only 21 years
+						<lb n="17"/>
+						Called Smart, he came out
+						<lb n="18"/>
+						in the Goolistan &amp; joined
+						<lb n="19"/>
+						this ship on the 1st Instt;
+						<lb n="20"/>
+						<lb n="21"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="22"/>
+						their wages for July~
+						<lb n="23"/>
+						<lb n="24"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="25"/>
+						East parts;
+						<lb n="26"/>
+						<lb n="27"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="28"/>
+						Cooled down with a light
+						<lb n="29"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="30"/>
+						Air, but my cabin is burning
+						<lb n="31"/>
+						hot it is 108º at 7 P.M.
+						<lb n="32"/>
+						I cannot stand a minute
+						<lb n="33"/>
+						<pb n="11"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						Continued from Diary
+						<lb n="5"/>
+						<lb n="6"/>
+						No. 47 of 1897/8
+						<lb n="7"/>
+						<lb n="8"/>
+						<lb n="9"/>
+					</p>
+				</div2>
+				<div2 n="13" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p13-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="10"/>
+						<lb n="11"/>
+						passengers at Ali Gherbi
+						<lb n="12"/>
+						<lb n="13"/>
+						and took 4 and went on
+						<lb n="14"/>
+						<lb n="15"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="16"/>
+						<lb n="17"/>
+						<lb n="18"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="19"/>
+						<lb n="20"/>
+						the place of the 2d mate Mr.
+						<lb n="21"/>
+						<lb n="22"/>
+						Hatfield who was discharged
+						<lb n="23"/>
+						<lb n="24"/>
+						three months ago; this
+						<lb n="25"/>
+						<lb n="26"/>
+						one is young only 21 years
+						<lb n="27"/>
+						<lb n="28"/>
+						Called Smart, he came out
+						<lb n="29"/>
+						<lb n="30"/>
+						in the Goolistan &amp; joined
+						<lb n="31"/>
+						<lb n="32"/>
+						this ship on the 1st Instt;
+						<lb n="33"/>
+						<lb n="34"/>
+						<lb n="35"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="36"/>
+						<lb n="37"/>
+						their wages for July~
+						<lb n="38"/>
+						<lb n="39"/>
+						<lb n="40"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="41"/>
+						<lb n="42"/>
+						East parts;
+						<lb n="43"/>
+						<lb n="44"/>
+						<lb n="45"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="46"/>
+						<lb n="47"/>
+						Cooled down with a light
+						<lb n="48"/>
+						<lb n="49"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="50"/>
+						<lb n="51"/>
+						Air, but my cabin is burning
+						<lb n="52"/>
+						<lb n="53"/>
+						hot it is 108º at 7 P.M.
+						<lb n="54"/>
+						<lb n="55"/>
+						I cannot stand a minute
+						<lb n="56"/>
+						<pb n="12"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						Continued from Diary
+						<lb n="5"/>
+						No. 47 of 1897/8
+						<lb n="6"/>
+						<lb n="7"/>
+					</p>
+				</div2>
+				<div2 n="14" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p14-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="8"/>
+						passengers at Ali Gherbi
+						<lb n="9"/>
+						and took 4 and went on
+						<lb n="10"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="11"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="12"/>
+						the place of the 2d mate Mr.
+						<lb n="13"/>
+						Hatfield who was discharged
+						<lb n="14"/>
+						three months ago; this
+						<lb n="15"/>
+						one is young only 21 years
+						<lb n="16"/>
+						Called Smart, he came out
+						<lb n="17"/>
+						in the Goolistan &amp; joined
+						<lb n="18"/>
+						this ship on the 1st Instt;
+						<lb n="19"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="20"/>
+						their wages for July~
+						<lb n="21"/>
+						<lb n="22"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="23"/>
+						East parts;
+						<lb n="24"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="25"/>
+						Cooled down with a light
+						<lb n="26"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="27"/>
+						Air, but my cabin is burning
+						<lb n="28"/>
+						hot it is 108º at 7 P.M.
+						<lb n="29"/>
+						I cannot stand a minute
+						<lb n="30"/>
+						<pb n="13"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+						Continued from Diary
+						<lb n="6"/>
+						<lb n="7"/>
+						No. 47 of 1897/8
+						<lb n="8"/>
+						<lb n="9"/>
+						<lb n="10"/>
+					</p>
+				</div2>
+				<div2 n="15" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p15-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="11"/>
+						<lb n="12"/>
+						passengers at Ali Gherbi
+						<lb n="13"/>
+						<lb n="14"/>
+						and took 4 and went on
+						<lb n="15"/>
+						<lb n="16"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="17"/>
+						<lb n="18"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="19"/>
+						<lb n="20"/>
+						the place of the 2d mate Mr.
+						<lb n="21"/>
+						<lb n="22"/>
+						Hatfield who was discharged
+						<lb n="23"/>
+						<lb n="24"/>
+						three months ago; this
+						<lb n="25"/>
+						<lb n="26"/>
+						one is young only 21 years
+						<lb n="27"/>
+						<lb n="28"/>
+						Called Smart, he came out
+						<lb n="29"/>
+						<lb n="30"/>
+						in the Goolistan &amp; joined
+						<lb n="31"/>
+						<lb n="32"/>
+						this ship on the 1st Instt;
+						<lb n="33"/>
+						<lb n="34"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="35"/>
+						<lb n="36"/>
+						their wages for July~
+						<lb n="37"/>
+						<lb n="38"/>
+						<lb n="39"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="40"/>
+						<lb n="41"/>
+						East parts;
+						<lb n="42"/>
+						<lb n="43"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="44"/>
+						<lb n="45"/>
+						Cooled down with a light
+						<lb n="46"/>
+						<lb n="47"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="48"/>
+						<lb n="49"/>
+						Air, but my cabin is burning
+						<lb n="50"/>
+						<lb n="51"/>
+						hot it is 108º at 7 P.M.
+						<lb n="52"/>
+						<lb n="53"/>
+						I cannot stand a minute
+						<lb n="54"/>
+						<pb n="14"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						<lb n="5"/>
+						Continued from Diary
+						<lb n="6"/>
+						No. 47 of 1897/8
+						<lb n="7"/>
+						<lb n="8"/>
+						<lb n="9"/>
+					</p>
+				</div2>
+				<div2 n="16" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<head type="marginnote" xml:id="p16-11">
+						The mate Smart = المعلم سمرت
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="10"/>
+						passengers at Ali Gherbi
+						<lb n="11"/>
+						and took 4 and went on
+						<lb n="12"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="13"/>
+						<lb n="14"/>
+						<lb n="15"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="16"/>
+						the place of the 2d mate Mr.
+						<lb n="17"/>
+						Hatfield who was discharged
+						<lb n="18"/>
+						three months ago; this
+						<lb n="19"/>
+						one is young only 21 years
+						<lb n="20"/>
+						Called Smart, he came out
+						<lb n="21"/>
+						in the Goolistan &amp; joined
+						<lb n="22"/>
+						this ship on the 1st Instt;
+						<lb n="23"/>
+						<lb n="24"/>
+						<lb n="25"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="26"/>
+						their wages for July~
+						<lb n="27"/>
+						<lb n="28"/>
+						<lb n="29"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="30"/>
+						East parts;
+						<lb n="31"/>
+						<lb n="32"/>
+						<lb n="33"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="34"/>
+						Cooled down with a light
+						<lb n="35"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="36"/>
+						Air, but my cabin is burning
+						<lb n="37"/>
+						hot it is 108º at 7 P.M.
+						<lb n="38"/>
+						I cannot stand a minute
+						<lb n="39"/>
+						<pb n="15"/>
+						<lb n="1"/>
+						<lb n="2"/>
+						<lb n="3"/>
+						<lb n="4"/>
+						Continued from Diary
+						<lb n="5"/>
+						<lb n="6"/>
+						No. 47 of 1897/8
+						<lb n="7"/>
+						<lb n="8"/>
+						<lb n="9"/>
+						<lb n="10"/>
+						<lb n="11"/>
+					</p>
+				</div2>
+				<div2 n="17" part="N" type="diaryentry">
+					<head type="diaryentry">
+						1898 Augt 3d.
+					</head>
+					<p>
+						At 8,,5 am landed 13 1/2
+
+						<lb n="12"/>
+						<lb n="13"/>
+						passengers at Ali Gherbi
+						<lb n="14"/>
+						<lb n="15"/>
+						and took 4 and went on
+						<lb n="16"/>
+						<lb n="17"/>
+						at 9,,5~ Light N.W. breeze
+						<lb n="18"/>
+						<lb n="19"/>
+						<lb n="20"/>
+						<lb n="21"/>
+						<lb n="22"/>
+					</p>
+					<p>
+						    We have a new mate in
+						<lb n="23"/>
+						<lb n="24"/>
+						the place of the 2d mate Mr.
+						<lb n="25"/>
+						<lb n="26"/>
+						Hatfield who was discharged
+						<lb n="27"/>
+						<lb n="28"/>
+						three months ago; this
+						<lb n="29"/>
+						<lb n="30"/>
+						one is young only 21 years
+						<lb n="31"/>
+						<lb n="32"/>
+						Called Smart, he came out
+						<lb n="33"/>
+						<lb n="34"/>
+						in the Goolistan &amp; joined
+						<lb n="35"/>
+						<lb n="36"/>
+						this ship on the 1st Instt;
+						<lb n="37"/>
+						<lb n="38"/>
+						<lb n="39"/>
+						<lb n="40"/>
+						<lb n="41"/>
+					</p>
+					<p>
+						    I paid the Ship's Company
+						<lb n="42"/>
+						<lb n="43"/>
+						their wages for July~
+						<lb n="44"/>
+						<lb n="45"/>
+						<lb n="46"/>
+						<lb n="47"/>
+						<lb n="48"/>
+					</p>
+					<p>
+						    Clouds coming on on N. &amp;
+						<lb n="49"/>
+						<lb n="50"/>
+						East parts;
+						<lb n="51"/>
+						<lb n="52"/>
+						<lb n="53"/>
+						<lb n="54"/>
+						<lb n="55"/>
+					</p>
+					<p>
+						    Toward sunset the Weather
+						<lb n="56"/>
+						<lb n="57"/>
+						Cooled down with a light
+						<lb n="58"/>
+						<lb n="59"/>
+						N.W. breeze &amp; fine Cool
+						<lb n="60"/>
+						<lb n="61"/>
+						Air, but my cabin is burning
+						<lb n="62"/>
+						<lb n="63"/>
+						hot it is 108º at 7 P.M.
+						<lb n="64"/>
+						<lb n="65"/>
+						I cannot stand a minute
+						<lb n="66"/>
+						<pb n="16"/>
+					</p>
+				</div2>
+			</div1>
+		</body>
+	</text>
+</TEI>
+
