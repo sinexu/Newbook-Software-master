@@ -148,14 +148,14 @@ TEI-XML
       </form>
     </div>
 <div class="inputfile" id="teixmlfile" style="display: none;">
-    <p>Submit a TEI-XML file;
+  <p>Submit a TEI-XML file;
        we'll run the xslt scripts and show you to the result.
-    </p>
-    <form action="index.cgi" method="post"
+  </p>
+  <form action="index.cgi" method="post"
          enctype="multipart/form-data">
-         <input type="file" name="tex" required/>
-         <p><input type = "submit" value="Upload TEI-XML file"/></p>
-    </form>
+        <input type="file" name="tex" required/>
+        <p><input type = "submit" value="Upload TEI-XML file"/></p>
+  </form>
 </div>
 
   </li>
@@ -225,11 +225,15 @@ TEI-XML
     </div>
 <div class="inputfile" id="teixmlfile" style="display: none;">
     <p>Submit a TEI-XML file;
-       we'll run the xslt scripts and show you to the result.
+       we'll run the xslt scripts and show you to the result. Please choose file type you want to download:
+    </p>
+    <p>
+      <input type="radio" name="download_file" value="html" checked="on"/> HTML
+      <input type="radio" name="download_file" value="tex" /> LaTeX
     </p>
     <form action="index.cgi" method="post"
          enctype="multipart/form-data">
-         <input type="file" name="tex" required/>
+         <input type="file" name="html" required/>
          <p><input type = "submit" value="Upload TEI-XML file"/></p>
     </form>
 </div>
