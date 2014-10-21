@@ -148,14 +148,18 @@ TEI-XML
       </form>
     </div>
 <div class="inputfile" id="teixmlfile" style="display: none;">
-  <p>Submit a TEI-XML file;
-       we'll run the xslt scripts and show you to the result.
-  </p>
-  <form action="index.cgi" method="post"
+    <p>Submit a TEI-XML file;
+       we'll run the xslt scripts and show you to the result. Please choose file type you want to download:
+    </p>
+    <p>
+      <input type="radio" name="download_file" value="html" checked="on" onchange="xmltype_chosen('html')"/> HTML
+      <input type="radio" name="download_file" value="tex" onchange="xmltype_chosen('tex')"/> LaTeX
+    </p>
+    <form action="index.cgi" method="post"
          enctype="multipart/form-data">
-        <input type="file" name="tex" required/>
-        <p><input type = "submit" value="Upload TEI-XML file"/></p>
-  </form>
+         <input id="xmltype" type="file" name="html" required/>
+         <p><input type = "submit" value="Upload TEI-XML file"/></p>
+    </form>
 </div>
 
   </li>
@@ -166,12 +170,29 @@ WEBPAGES.append(SUCCESS_PAGE)
 
 WELCOME_PAGE = """
 <h2>Newbook Autotagger Online Interface</h2>
-<div id=content>
+<div id=content> <h3> The Autotagger </h3>
+  <p> This autotagger assumes that that the file passed into it is properly marked up according to the Svoboda Diaries Transcription Format. You may transcribe anything using this unique transcription format to generate XML, HTML, LaTeX or PDF documents.</p>
+  <h3> About The Transcription Format </h3>
+  <p> Stuff about transcribing.  Maybe examples.  Make new page? </p>
+  <h3> Download XSLT stylesheets </h3>
+  <ul>
+    <li><a href="download.html">Download page</a></li>
+  </ul>
+  <p> Stay tuned for configuration and customization options. </p>
+
+<h3>Upload Files</h3>
 <p><strong>Please choose file type you will upload:</strong></p>
 <input class="uploadfile" type="radio" name="file" value="SDTF" onchange="filetype_chosen()">
 SDTF (svoboda diaries transcription format)
 <input class="uploadfile" type="radio" name="file" value="teixml" onchange="filetype_chosen()"//>
 TEI-XML
+
+<h3>Sample files</h3>
+  <p>or try one of the sample files</p>
+  <ul>
+    <li><a href="#" onclick="sample('texts/d48_clean.txt')">J. Svoboda Diary 48 SDTF</a></li>
+  </ul>
+
 <div class="inputfile" id="SDTFfile" style="display: none;">
       <p>Submit a SDTF file (svoboda diaries transcription format);
          we'll run the autotagger and show you to the result.
@@ -211,7 +232,7 @@ TEI-XML
                   <input type = "radio" name="NUMBER_OF_DIVS" value="2">2</span>
                </p>
                <p><span>Do you want subsection title in text?
-                  <input type = "radio" name="SUBSECTION_IN_TEXT" value="Treu">Yes
+                  <input type = "radio" name="SUBSECTION_IN_TEXT" value="True">Yes
                   <input type = "radio" name="SUBSECTION_IN_TEXT" value="False">No</span>
                </p>
                <p><span>Do you want to include line breaks?
@@ -228,26 +249,18 @@ TEI-XML
        we'll run the xslt scripts and show you to the result. Please choose file type you want to download:
     </p>
     <p>
-      <input type="radio" name="download_file" value="html" checked="on"/> HTML
-      <input type="radio" name="download_file" value="tex" /> LaTeX
+      <input type="radio" name="download_file" value="html" checked="on" onchange="xmltype_chosen('html')"/> HTML
+      <input type="radio" name="download_file" value="tex" onchange="xmltype_chosen('tex')"/> LaTeX
     </p>
     <form action="index.cgi" method="post"
          enctype="multipart/form-data">
-         <input type="file" name="html" required/>
+         <input id="xmltype" type="file" name="html" required/>
          <p><input type = "submit" value="Upload TEI-XML file"/></p>
     </form>
 </div>
 <p>Our code is open-source access our repository <a href="https://github.com/kch349/Newbook-Software">here</a>.</p>
 </div>
-<div id=content> <h3> The Autotagger </h3>
-	<p> This autotagger assumes that that the file passed into it is properly marked up according to the Svoboda Diaries Transcription Format. You may transcribe anything using this unique transcription format to generate XML, HTML, LaTeX or PDF documents.</p>
-  <h3> About The Transcription Format </h3>
-  <p> Stuff about transcribing.  Maybe examples.  Make new page? </p>
-  <h3> Download XSLT stylesheets </h3>
-  <ul>
-    <li><a href="download.html">Download page</a></li>
-  </ul>
-  <p> Stay tuned for configuration and customization options. </p>
+</div>
 <div id="footer"><hr></hr>  
 		Copyright © 2013 Newbook Digital Text in the Humanities. All Rights Reserved.
     <br></br><a href="http://www.washington.edu/online/privacy"><strong>PRIVACY</strong></a>
@@ -302,7 +315,10 @@ form_data = cgi.FieldStorage()
 timestamp = datetime.datetime.now().ctime()
 
 if 'sdtf' in form_data:
-  ## run autotagger on input
+  # if 'sample' in form_data:
+  #   # run autotagger on sample file (path is in form_data['sample'])
+  # else:  
+  # ## run autotagger on uploaded file
 
   # step 0, clear old files out of the way
   # and create empty output file

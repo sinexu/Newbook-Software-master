@@ -8,3 +8,18 @@ function filetype_chosen() {
 		}
 	}
 }
+
+function xmltype_chosen(t) {
+	var i = document.getElementById('xmltype');
+    i.name=t;
+}
+
+function sample(path){
+	var f = document.getElementsByTagName('form')[0];
+	var i = document.createElement('input');
+	i.type="hidden";
+	i.name="sample";
+	i.value=path;
+	f.appendChild(i);
+	f.submit();
+}
